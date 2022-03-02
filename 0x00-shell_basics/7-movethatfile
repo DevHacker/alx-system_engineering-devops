@@ -1,6 +1,0 @@
-#!/bin/bash
-<<<<<<< HEAD
-touch betty | mv betty /tmp/my_first_directory
-=======
-touch betty | mv betty /tmp/my_first_directory/
->>>>>>> 47f3a604d226a749373783df78da2c8dba978f9c
