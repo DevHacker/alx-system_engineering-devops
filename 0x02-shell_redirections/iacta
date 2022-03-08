@@ -1,0 +1,3 @@
+In the first example, we use cat to read the file and output it to standard output, which is piped into the standard input of fmt.
+The second example starts with an unsorted list of data with duplicate entries, first, cat sends the list into sort which sorts it.
+Viewing the contents of tar files Often you will see software distributed as a gzipped tar file.
